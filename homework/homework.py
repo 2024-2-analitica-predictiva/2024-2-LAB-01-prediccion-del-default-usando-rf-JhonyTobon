@@ -57,7 +57,7 @@
 # contener las siguientes capas:
 # - Transforma las variables categoricas usando el método
 #   one-hot-encoding.
-# - Ajusta un modelo de bosques aleatorios (rando forest).
+# - Ajusta un modelo de bosques aleatorios (random forest).
 #
 #
 # Paso 4.
@@ -84,7 +84,7 @@
 #
 # Paso 7.
 # Calcule las matrices de confusion para los conjuntos de entrenamiento y
-# prueba. Guardelas en el archivo files/output/metrics.json. Cada fila
+# prueba. Guárdelas en el archivo files/output/metrics.json. Cada fila
 # del archivo es un diccionario con las metricas de un modelo.
 # de entrenamiento o prueba. Por ejemplo:
 #
